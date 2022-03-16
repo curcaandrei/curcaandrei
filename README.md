@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei Curca</h1>
-<h3 align="center">Currently a Computer Science student and a Java Developer</h3>
+<h3 align="center">Currently a Computer Science student and Java Developer</h3>
 
 - 🔭 I’m currently working on **bachelor's degree final project**
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **curcaandrei99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
