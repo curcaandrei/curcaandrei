@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei Curca</h1>
 <h3 align="center">Currently a Computer Science student and Java Developer</h3>
 
-- 🔭 I’m currently working on **bachelor's degree final project**
+- 🔭 I’m currently working on my **bachelor's degree final project**
 
 - 🌱 I’m currently learning **Angular, Dart, Flutter and advanced Java**
 
