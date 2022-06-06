@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **bachelor's degree final project**
 
-- 🌱 I’m currently learning **Angular, Dart, Flutter and advanced Java**
+- 🌱 I’m currently learning **Angular, NestJS and advanced Java**
 
 - 📫 How to reach me **curcaandrei99@gmail.com**
 
