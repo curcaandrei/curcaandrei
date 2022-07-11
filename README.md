@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrei Curca</h1>
-<h3 align="center">Currently a Computer Science student and Java Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on my **bachelor's degree final project**
+- 🔭 I’m currently working as a **Java Developer**
 
-- 🌱 I’m currently learning **Angular, NestJS and advanced Java**
+- 🌱 I’m currently learning **Go and F#**
 
 - 📫 How to reach me **curcaandrei99@gmail.com**
 
